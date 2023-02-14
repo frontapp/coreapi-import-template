@@ -1,8 +1,8 @@
 const fs = require("fs");
 import { loremIpsum } from "./loremipsum.json";
 
-const NUM_OF_MESSAGES = 300;
-const NUM_OF_CONVERSATIONS = 30;
+const NUM_OF_MESSAGES = 25;
+const NUM_OF_CONVERSATIONS = 5;
 
 let exampleMessages: Object[] = [];
 
