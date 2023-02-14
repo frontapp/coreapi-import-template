@@ -20,7 +20,7 @@ function createBody() {
 }
 
 function createSubject() {
-    return `${words[randomInt(words.length)]} ${words[randomInt(words.length)]} ${words[randomInt(words.length)]}`;
+    return `I am like the blue rose`;
 }
 
 function createTags() {
