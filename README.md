@@ -5,6 +5,9 @@ This project provides an example application that Front customers can use as a s
 
 In the project directory, you can run:
 
+### `yarn install`
+Installs the project dependencies.
+
 ### `yarn start`
 
 Runs the import.
